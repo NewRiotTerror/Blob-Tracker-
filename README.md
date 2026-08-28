@@ -2,7 +2,7 @@
 
 High-performance blob tracking that runs entirely in your browser. Built with vanilla JavaScript and optimized for real-time performance.
 
-**[Try it live](https://nicholaspjm.github.io/web-blob-tracker/)**
+**[Try it live](https://NewRiotTerror.github.io/web-blob-tracker/)**
 
 
 
@@ -14,7 +14,7 @@ TBD
 
 ### Online
 
-Just visit the [live demo](https://nicholaspjm.github.io/web-blob-tracker/) and click "toggle camera"
+Just visit the [live demo](https://NewRiotTerror.github.io/web-blob-tracker/) and click "toggle camera"
 
 ### Local
 
